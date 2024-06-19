@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-19T02:28:48.099Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="fid-vFRTf9tQUaI0XJe7" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-19T02:32:25.535Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="mIoAfv3guO_AifALXX36" version="24.5.5" type="github">
   <diagram name="第 1 页" id="S85ZerrEzWoBYQ2yGarr">
     <mxGraphModel dx="1631" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -195,6 +195,18 @@
             <mxPoint x="200" y="830" as="sourcePoint" />
             <mxPoint x="200" y="630" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QmxcnJicYE2JuXU5Kt_q-1" value="切割道" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="930" y="640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QmxcnJicYE2JuXU5Kt_q-3" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fillColor=#d80073;strokeColor=#009900;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="972" as="sourcePoint" />
+            <mxPoint x="940" y="972" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QmxcnJicYE2JuXU5Kt_q-4" value="出现像素舍入误差" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="950" y="950" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
